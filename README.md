@@ -8,5 +8,4 @@
 
 <p align="center">
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=dis&logoColor=white&style=for-the-badge"/></a>
 </p>
