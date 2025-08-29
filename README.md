@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-    <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
+    <img src=https://github.com/HerobrineTV.png?size=60"/></a>
 </p>
