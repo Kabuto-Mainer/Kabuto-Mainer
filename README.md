@@ -2,8 +2,9 @@
   <h3 align="center">⌨️ Hi Bro</h3>
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com
-font=Asimovian&pause=1000&color=F758DF&background=F8FFD900&center=true&random=true&width=435&lines=I+am+a+student+of+MFTI;I+love+IT+and+swiming;Do+you+know+DOOM%3F" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'am+a+student+of+MFTI!;I+love+swimming+and+IT!;Do+you+know+DOOM?!;&font=Asimoviancolor=F758DF&backg%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
