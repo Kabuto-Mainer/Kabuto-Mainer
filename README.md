@@ -8,5 +8,4 @@
 
 <p align="center">
     <img src=https://i.pinimg.com/originals/b9/74/49/b97449dcca853b9157b825dfde40f8f6.gif?size=60"/></a>
-    <img src=https://i.ytimg.com/vi/_Gg7dfQlm7w/maxresdefault.jpg?size=1"/></a>
 </p>
